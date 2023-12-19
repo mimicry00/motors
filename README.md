@@ -11,3 +11,10 @@ DC모터, Servo모터, Stepper모터의 구동 방법입니다.</br>
 
 업데이트
 * /BasicStepper Driver : BasicStepper Driver를 활용한 스테퍼 모터 회전. A4988 드라이버 사용할 때는 이 예제로.
+
+
+*L298N 드라이버
+![image](https://github.com/mimicry00/motors/assets/91940591/f36956f0-bf2e-42f7-ba44-81c71e957067)
+
+
+
