@@ -16,7 +16,8 @@ DC모터, Servo모터, Stepper모터의 구동 방법입니다.</br>
 
 *L298N 드라이버
 
-![image](https://github.com/mimicry00/motors/assets/91940591/f36956f0-bf2e-42f7-ba44-81c71e957067)
+![image](https://github.com/mimicry00/motors/assets/91940591/a2d63ab4-c509-4f87-8720-4cabaa3630d4)
+
 
 *A4988 드라이버
 
